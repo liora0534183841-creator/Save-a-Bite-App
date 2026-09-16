@@ -28,8 +28,7 @@ To run the application locally and ensure proper Google Maps rendering and data 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/liora0534183841-creator/Save-a-Bite-App.git](https://github.com/liora0534183841-creator/Save-a-Bite-App.git)
-
+git clone https://github.com/liora0534183841-creator/Save-a-Bite-App.git
 # Install dependencies
 flutter pub get
 
